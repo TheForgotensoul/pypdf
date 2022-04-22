@@ -2,6 +2,6 @@ docx2pdf==0.1.7
 fpdf==1.7.2
 img2pdf==0.3.6
 Pillow==7.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pywin32==227
 tqdm==4.48.0
